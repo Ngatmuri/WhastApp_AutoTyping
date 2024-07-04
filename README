@@ -1,5 +1,5 @@
-#Need
+# Need
 node 18+
 - npm i whatsapp-web.js
 - npm i qrcode-terminal
-run Node index
+- run Node index
